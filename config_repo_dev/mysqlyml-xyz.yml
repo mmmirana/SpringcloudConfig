@@ -1,0 +1,6 @@
+# 测试自定义profile是否生效
+mysql:
+  host: loaclhost
+  port: 3306
+  username: xyz
+  password: 1234
