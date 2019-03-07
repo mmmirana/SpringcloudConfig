@@ -1,0 +1,4 @@
+redis:
+  host: loaclhost
+  port: 6379
+  auth: 1234
