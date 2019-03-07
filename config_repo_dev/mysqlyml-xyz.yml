@@ -1,4 +1,10 @@
-# 测试自定义profile是否生效
+# 测试自定义profile是否生效，经测试，生效！
+# 访问：http://localhost:9030/mysqlyml-xyz.yml，返回数据如下
+# mysql:
+#   host: loaclhost
+#   password: 1234
+#   port: 3306
+#   username: xyz
 mysql:
   host: loaclhost
   port: 3306
